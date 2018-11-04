@@ -1,3 +1,5 @@
+auth.json
+/dst
 *.gem
 *.rbc
 /.config
